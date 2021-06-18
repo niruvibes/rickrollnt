@@ -3,7 +3,7 @@
 	"name": "rickrolln't",
 	"author": "colenh",
 	"short_name": "rickrolln't",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "redirects rickrolls and more to a diffferent page",
 	"icons": {
 		"512": "icons/rickrollnt.png"
@@ -17,7 +17,10 @@
 		"webRequest",
 		"webRequestBlocking",
 		"*://youtube.com/*",
-		"*://*.youtube.com/*"
+		"*://*.youtube.com/*",
+		"*://*.thisworldthesedays.com/*",
+		"*://*.noordstar.me/*",
+		"*://rickrolled.com/"
 	],
 	"browser_specific_settings": {
 		"gecko": {
