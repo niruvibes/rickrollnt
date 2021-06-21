@@ -1,6 +1,6 @@
 # rickrolln't  
 
-**i am not uploading to chrome quite yet; as they have a 5$ fee that i dont feel like paying**  
+**coming to chrome after review **  
 **you are always welcome to open a pull request and add a url**
 
 
