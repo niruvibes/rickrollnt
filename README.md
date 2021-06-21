@@ -1,6 +1,6 @@
 # rickrolln't  
 
-**coming to chrome after review **  
+**coming to chrome after review**  
 **you are always welcome to open a pull request and add a url**
 
 
