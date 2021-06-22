@@ -20,6 +20,7 @@ jobs:
           packages: 'pymdown-extensions'
           extensions: '["pymdownx.extra"]'
   publish:
+      needs: build
       runs-on: ubuntu-latest
       steps:
         - name: checkout
