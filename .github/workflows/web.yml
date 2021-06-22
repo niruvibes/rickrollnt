@@ -16,7 +16,7 @@ jobs:
         uses: ZacJW/markdown-html-action@1.1.0
         with:
           input_files: '[["README.md"]]'
-          output_files: '["web/index.html"]'
+          output_files: '["./web/index.html"]'
           packages: 'pymdown-extensions'
           extensions: '["pymdownx.extra"]'
   publish:
