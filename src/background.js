@@ -101,7 +101,7 @@ chrome.webRequest.onBeforeRequest.addListener(
 	(details) => {
 		const url = new URL(details.url);	
 		return {
-			redirectUrl: `https://niruvibes.github.io/NO.html`
+			redirectUrl: `https://niruvibes.github.io/other/NO.html`
 		};
 	},
 	{
